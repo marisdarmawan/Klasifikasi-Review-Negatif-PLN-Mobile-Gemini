@@ -76,7 +76,7 @@ def prediksi_gemini(ulasan_teks):
     return json.loads(response.text)
 
 # --- USER INTERFACE (UI) ---
-st.title("⚡ Smart CSO - Gemini Powered PLN Mobile Negative Review Classification")
+st.title("⚡ Smart CSO - AI Powered Classification")
 st.markdown("**PLN Mobile Customer Support Ticketing System (PoC)**")
 st.divider()
 
@@ -87,11 +87,11 @@ teks_input = st.text_area(
     placeholder="Contoh: mati lampu dari jam 2 siang gak nyala-nyala woy, trus mau lapor di aplikasi muter terus.."
 )
 
-if st.button("🔍 Analisis dengan Gemini AI", type="primary", use_container_width=True):
+if st.button("🔍 Analisis dengan AI", type="primary", use_container_width=True):
     if teks_input.strip() == "":
         st.warning("⚠️ Silakan masukkan teks ulasan terlebih dahulu.")
     else:
-        with st.spinner("🧠 Gemini AI sedang memikirkan konteks ulasan..."):
+        with st.spinner("🧠 AI sedang memikirkan konteks ulasan..."):
             try:
                 # Waktu mulai
                 start_time = time.time()
