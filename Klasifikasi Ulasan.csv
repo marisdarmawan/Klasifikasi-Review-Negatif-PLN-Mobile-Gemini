@@ -1,0 +1,192 @@
+﻿Layer 1;Layer 2;Layer 3;Layer 4;Layer 5
+APLIKASI;KETENAGALISTRIKAN;Akun PLN Mobile;1. ID Pelanggan;1. Gagal Input IDPEL / IDPEL tidak ditemukan
+APLIKASI;KETENAGALISTRIKAN;Akun PLN Mobile;1. ID Pelanggan;2. IDPEL Tidak Bisa Dihapus
+APLIKASI;KETENAGALISTRIKAN;Akun PLN Mobile;1. ID Pelanggan;3. IDPEL Tidak Bisa Ditambah/Maksimal IDPEL yang bisa didaftarkan
+APLIKASI;KETENAGALISTRIKAN;Akun PLN Mobile;1. ID Pelanggan;4. IDPEL Hilang / IDPEL Digunakan Pihak Lain
+APLIKASI;KETENAGALISTRIKAN;Akun PLN Mobile;2. Riwayat Penggunaan Listrik (Pasca/Pra);1. Riwayat Penggunaan Tidak Muncul / Tidak Sesuai
+APLIKASI;KETENAGALISTRIKAN;Akun PLN Mobile;3. Data Diri;1. Tidak Bisa Ubah Data Diri
+APLIKASI;KETENAGALISTRIKAN;Akun PLN Mobile;3. Data Diri;2. Permintaan Verifikasi ID Tidak Dapat Diajukan
+APLIKASI;KETENAGALISTRIKAN;Akun PLN Mobile;4. Alamat;1. Kesalahan Koordinat Lokasi
+APLIKASI;KETENAGALISTRIKAN;Akun PLN Mobile;5. Undang Anggota;1. Tidak Bisa Undang Anggota
+APLIKASI;KETENAGALISTRIKAN;Akun PLN Mobile;6. Login dan Register;1. OTP Tidak Masuk/salah/melebihi batas maksimal
+APLIKASI;KETENAGALISTRIKAN;Akun PLN Mobile;6. Login dan Register;2. Tidak Bisa Registrasi/ Susah Login
+APLIKASI;KETENAGALISTRIKAN;Akun PLN Mobile;6. Login dan Register;3. No HP/Email Sudah Terdaftar dengan Nama Orang Lain
+APLIKASI;KETENAGALISTRIKAN;Akun PLN Mobile;6. Login dan Register;4. Tidak bisa install
+APLIKASI;KETENAGALISTRIKAN;Akun PLN Mobile;6. Login dan Register;5. Tidak bisa verifikasi no Hp/email
+APLIKASI;KETENAGALISTRIKAN;Akun PLN Mobile;7. Hapus Akun;1. Tidak Bisa Hapus Akun
+APLIKASI;KETENAGALISTRIKAN;Token & Pembayaran;1. Masukkan Nomor IDPEL;1. IDPEL Tidak Ditemukan
+APLIKASI;KETENAGALISTRIKAN;Token & Pembayaran;2. Beli Token;1. Status Payment Berhasil tapi Token Tidak Muncul / Lama
+APLIKASI;KETENAGALISTRIKAN;Token & Pembayaran;2. Beli Token;2. Status Payment Gagal tapi Saldo Terpotong
+APLIKASI;KETENAGALISTRIKAN;Token & Pembayaran;3. Bayar Tagihan;1. Status Payment Berhasil tapi Tagihan Tidak Lunas
+APLIKASI;KETENAGALISTRIKAN;Token & Pembayaran;3. Bayar Tagihan;2. Status Payment Gagal tapi Saldo Terpotong
+APLIKASI;KETENAGALISTRIKAN;Token & Pembayaran;3. Bayar Tagihan;3. Tagihan Tidak Muncul
+APLIKASI;KETENAGALISTRIKAN;Token & Pembayaran;4. Metode Pembayaran;1. Metode Pembayaran Tidak Bisa Dipilih
+APLIKASI;KETENAGALISTRIKAN;Token & Pembayaran;4. Metode Pembayaran;2. Tidak bisa lanjutkan pembayaran
+APLIKASI;KETENAGALISTRIKAN;Token & Pembayaran;4. Metode Pembayaran;3. Pilihan Metode Pembayaran Terbatas / Keluhan Biaya Admin
+APLIKASI;KETENAGALISTRIKAN;PLN Non Taglis (PB/PD/PS/P2TL);1. Masukkan Nomor Registrasi;1. Nomor Registrasi Tidak Terdaftar
+APLIKASI;KETENAGALISTRIKAN;PLN Non Taglis (PB/PD/PS/P2TL);1. Masukkan Nomor Registrasi;2. Tagihan Tidak Muncul
+APLIKASI;KETENAGALISTRIKAN;PLN Non Taglis (PB/PD/PS/P2TL);1. Masukkan Nomor Registrasi;3. Tagihan Tidak Sesuai
+APLIKASI;KETENAGALISTRIKAN;PLN Non Taglis (PB/PD/PS/P2TL);1. Masukkan Nomor Registrasi;4. Tagihan Tidak Bisa Dibayar
+APLIKASI;KETENAGALISTRIKAN;PLN Non Taglis (PB/PD/PS/P2TL);2. Bayar Tagihan;1. Status Payment Berhasil tapi Tagihan Tidak Lunas
+APLIKASI;KETENAGALISTRIKAN;PLN Non Taglis (PB/PD/PS/P2TL);2. Bayar Tagihan;2. Status Payment Gagal tapi Saldo Terpotong
+APLIKASI;KETENAGALISTRIKAN;PLN Non Taglis (PB/PD/PS/P2TL);3. Metode Pembayaran;1. Metode Pembayaran Tidak Bisa Dipilih
+APLIKASI;KETENAGALISTRIKAN;PLN Non Taglis (PB/PD/PS/P2TL);3. Metode Pembayaran;2. Tidak bisa lanjutkan pembayaran
+APLIKASI;KETENAGALISTRIKAN;PLN Non Taglis (PB/PD/PS/P2TL);3. Metode Pembayaran;3. Pilihan Metode Pembayaran Terbatas
+APLIKASI;KETENAGALISTRIKAN;Pengaduan;1. Lacak Pengaduan Anda;1. Status Pengaduan Tidak Update
+APLIKASI;KETENAGALISTRIKAN;Pengaduan;2. Cek Padam Sekitar Saya;1. Fitur Tidak Bisa Digunakan
+APLIKASI;KETENAGALISTRIKAN;Pengaduan;2. Cek Padam Sekitar Saya;2. Informasi Tidak Sesuai
+APLIKASI;KETENAGALISTRIKAN;Pengaduan;3. Cari Topik Pengaduan;1. Topik Pengaduan Tidak Update
+APLIKASI;KETENAGALISTRIKAN;Pengaduan;4. Pengaduan Listrik Padam/Keandalan Jaringan Distribusi;1. Tidak Bisa Submit Pengaduan
+APLIKASI;KETENAGALISTRIKAN;Pengaduan;4. Pengaduan Listrik Padam/Keandalan Jaringan Distribusi;2. Tidak Menerima Notifikasi Pemadaman / Tidak Update
+APLIKASI;KETENAGALISTRIKAN;Pengaduan;5. kWh Meter Meter Pra/Paskabayar;1. Tidak Bisa Submit Pengaduan
+APLIKASI;KETENAGALISTRIKAN;Pengaduan;5. kWh Meter Meter Pra/Paskabayar;"2. Tahapan Pengaduan Meter ""Periksa"" Terlalu Panjang"
+APLIKASI;KETENAGALISTRIKAN;Pengaduan;5. kWh Meter Meter Pra/Paskabayar;3. Token Expired / Tidak Bisa Digunakan
+APLIKASI;KETENAGALISTRIKAN;Pengaduan;6. Pengaduan Pasang Baru, Perubahan Daya dan Penyambungan Sementara;1. Status Payment Gagal tapi Saldo Terpotong
+APLIKASI;KETENAGALISTRIKAN;Pengaduan;6. Pengaduan Pasang Baru, Perubahan Daya dan Penyambungan Sementara;1. Status Payment Gagal tapi Saldo Terpotong
+APLIKASI;KETENAGALISTRIKAN;Pengaduan;6. Pengaduan Pasang Baru, Perubahan Daya dan Penyambungan Sementara;2. Status Permohonan Tidak Update
+APLIKASI;KETENAGALISTRIKAN;Pengaduan;7. Layanan Kelistrikan;1. Tidak Bisa Submit Pengaduan
+APLIKASI;KETENAGALISTRIKAN;Pengaduan;8. Contact Us;1. Fitur Live Chat Tidak Bisa Digunakan
+APLIKASI;KETENAGALISTRIKAN;Pengaduan;9. Layanan Informasi;1. PLN Answers (FAQ) Tidak Update
+APLIKASI;KETENAGALISTRIKAN;Catat Meter;1. SWACAM;1. SWACAM Tidak Dapat Digunakan
+APLIKASI;KETENAGALISTRIKAN;Sambung Baru LSP Plus;1. Proses Pembuatan Permohonan;1. Tidak Paham dengan Alur LSP / Alur Permohonan Rumit
+APLIKASI;KETENAGALISTRIKAN;Sambung Baru LSP Plus;1. Proses Pembuatan Permohonan;2. Tidak terima verifikasi email
+APLIKASI;KETENAGALISTRIKAN;Ubah Daya, Migrasi, dan Penyambungan Sementara;1. Proses Pembuatan Permohonan;1. Alur Permohonan Rumit / UU PDP
+APLIKASI;KETENAGALISTRIKAN;Ubah Daya, Migrasi, dan Penyambungan Sementara;1. Proses Pembuatan Permohonan;2. Tidak terima verifikasi email
+APLIKASI;KETENAGALISTRIKAN;Simulasi Biaya;1. PB/PD/PS/SLO;1. Pengisian Formulir Rumit
+APLIKASI;KETENAGALISTRIKAN;Simulasi Biaya;1. PB/PD/PS/SLO;2. Perhitungan Biaya Membingungkan
+APLIKASI;KETENAGALISTRIKAN;Simulasi Biaya;1. PB/PD/PS/SLO;3. Aplikasi Error
+APLIKASI;KETENAGALISTRIKAN;E-Billing;1. Ganti/Berhenti E-Billing;1. Tidak Bisa / Gagal Berhenti E-Billing
+APLIKASI;KETENAGALISTRIKAN;E-Billing;2. Tambahkan Email Untuk E-Billing;1. Tidak Bisa / Gagal Daftar E-Billing
+LAYANAN;KETENAGALISTRIKAN;Akun PLN Mobile;1. Data Diri;1. Permintaan Verifikasi ID Belum Ada Jawaban
+LAYANAN;KETENAGALISTRIKAN;Akun PLN Mobile;1. Data Diri;2. Permintaan Verifikasi ID Ditolak
+LAYANAN;KETENAGALISTRIKAN;Pengaduan;1. Pengaduan Listrik Padam/Keandalan Jaringan Distribusi;1. Respon Lambat terhadap Laporan Padam
+LAYANAN;KETENAGALISTRIKAN;Pengaduan;1. Pengaduan Listrik Padam/Keandalan Jaringan Distribusi;2. Laporan Selesai/Batal tanpa Ditindaklanjuti
+LAYANAN;KETENAGALISTRIKAN;Pengaduan;1. Pengaduan Listrik Padam/Keandalan Jaringan Distribusi;3. Ketidaksesuaian Layanan Petugas Unit
+LAYANAN;KETENAGALISTRIKAN;Pengaduan;1. Pengaduan Listrik Padam/Keandalan Jaringan Distribusi;4. Tegangan Drop/Tinggi
+LAYANAN;KETENAGALISTRIKAN;Pengaduan;1. Pengaduan Listrik Padam/Keandalan Jaringan Distribusi;"5. Tiang Miring/Roboh/Keropos; Kabel Menjuntai; Pangkas Pohon; dsb"
+LAYANAN;KETENAGALISTRIKAN;Pengaduan;1. Pengaduan Listrik Padam/Keandalan Jaringan Distribusi;6. Frekuensi dan durasi padam
+LAYANAN;KETENAGALISTRIKAN;Pengaduan;2. kWh Meter Prabayar Meter Pra/Paskabayar;1. kWh meter rusak / tidak berfungsi
+LAYANAN;KETENAGALISTRIKAN;Pengaduan;2. kWh Meter Prabayar Meter Pra/Paskabayar;2. Pengaduan / Penggantian Belum Ditindaklanjuti
+LAYANAN;KETENAGALISTRIKAN;Pengaduan;2. kWh Meter Prabayar Meter Pra/Paskabayar;"3. kWh meter muncul ""Periksa"" / ""Error"""
+LAYANAN;KETENAGALISTRIKAN;Pengaduan;2. kWh Meter Prabayar Meter Pra/Paskabayar;4. Konversi Sisa Token belum diterima
+LAYANAN;KETENAGALISTRIKAN;Pengaduan;2. kWh Meter Prabayar Meter Pra/Paskabayar;5. kWh meter dirasa cepat habis
+LAYANAN;KETENAGALISTRIKAN;Pengaduan;3. Pengaduan Pasang Baru, Perubahan Daya dan Penyambungan Sementara;1. Refund Belum Diterima
+LAYANAN;KETENAGALISTRIKAN;Pengaduan;3. Pengaduan Pasang Baru, Perubahan Daya dan Penyambungan Sementara;2. Tidak Bisa Submit Pengaduan
+LAYANAN;KETENAGALISTRIKAN;Pengaduan;3. Pengaduan Pasang Baru, Perubahan Daya dan Penyambungan Sementara;3. Belum Ada Realisasi
+LAYANAN;KETENAGALISTRIKAN;Pengaduan;3. Pengaduan Pasang Baru, Perubahan Daya dan Penyambungan Sementara;4. Ketidaksesuaian Layanan Petugas Unit
+LAYANAN;KETENAGALISTRIKAN;Pengaduan;4. Keluhan Layanan Kelistrikan;1. Respon lambat terhadap Laporan Keluhan
+LAYANAN;KETENAGALISTRIKAN;Pengaduan;4. Keluhan Layanan Kelistrikan;2. Keluhan Selesai/Batal tanpa Ditindaklanjuti
+LAYANAN;KETENAGALISTRIKAN;Pengaduan;4. Keluhan Layanan Kelistrikan;3. Keluhan Tusbung
+LAYANAN;KETENAGALISTRIKAN;Pengaduan;4. Keluhan Layanan Kelistrikan;4. Keluhan P2TL
+LAYANAN;KETENAGALISTRIKAN;Pengaduan;4. Keluhan Layanan Kelistrikan;3. Keluhan Geser APP
+LAYANAN;KETENAGALISTRIKAN;Pengaduan;5. Contact Us;1. Respon Petugas CC PLN123 Lama
+LAYANAN;KETENAGALISTRIKAN;Pengaduan;5. Contact Us;2. Ketidaksesuaian Layanan Petugas CC PLN123
+LAYANAN;KETENAGALISTRIKAN;Pengaduan;5. Contact Us;3. Respon tidak solutif (Non CC PLN123)
+LAYANAN;KETENAGALISTRIKAN;Pengaduan;6. Layanan Informasi;1. Informasi Kelistrikan Tidak Sesuai
+LAYANAN;KETENAGALISTRIKAN;Catat Meter;1. Pengaduan Catat Meter;1. Ketidaksesuaian Layanan Petugas Unit
+LAYANAN;KETENAGALISTRIKAN;Catat Meter;1. Pengaduan Catat Meter;2. Angka Stand Meter Tidak Sesuai / Keluhan Lonjakan Tagihan
+LAYANAN;KETENAGALISTRIKAN;Catat Meter;2. SWACAM;1. Perbedaan catat meter SWACAM dan petugas
+LAYANAN;KETENAGALISTRIKAN;Sambung Baru LSP Plus;1. Proses Pembuatan Permohonan;1. Kendala NIDI dan SLO
+LAYANAN;KETENAGALISTRIKAN;Sambung Baru LSP Plus;1. Proses Pembuatan Permohonan;2. Instalatir tidak tersedia
+LAYANAN;KETENAGALISTRIKAN;Subsidi Listrik;1. PB/PD/Balik Nama;1. Data Subsidi Sudah Digunakan/Tidak Sesuai
+LAYANAN;KETENAGALISTRIKAN;Subsidi Listrik;1. PB/PD/Balik Nama;2. Keluhan Subsidi
+APLIKASI;BEYOND KWH;Saldo PLN Mobile;1. Saldo Pendapatan;1. Saldo Tidak Diterima
+APLIKASI;BEYOND KWH;Saldo PLN Mobile;2. Saldo Refund;1. Saldo Tidak Diterima
+APLIKASI;BEYOND KWH;Saldo PLN Mobile;2. Saldo Refund;2. Saldo Refund Lama Diterima
+APLIKASI;BEYOND KWH;Saldo PLN Mobile;2. Saldo Refund;3. Saldo Refund Tidak Sesuai
+APLIKASI;BEYOND KWH;Saldo PLN Mobile;3. Tarik Saldo;1. Saldo Tidak Diterima
+APLIKASI;BEYOND KWH;Saldo PLN Mobile;4. Aktivasi;1. Gagal Aktivasi
+APLIKASI;BEYOND KWH;Saldo PLN Mobile;4. Aktivasi;2. OTP Tidak Masuk
+APLIKASI;BEYOND KWH;ICONNET;1. Cek Coverage;1. Coverage Tidak Sesuai
+APLIKASI;BEYOND KWH;ICONNET;2. Pendaftaran Baru;1. Alur Permohonan Rumit
+APLIKASI;BEYOND KWH;ICONNET;3. Billing / Refund;1. Billing Tidak Sesuai
+APLIKASI;BEYOND KWH;ICONNET;3. Billing / Refund;2. Billing Tidak Bisa Dibayar
+APLIKASI;BEYOND KWH;ICONNET;3. Billing / Refund;3. Refund Belum Diterima
+APLIKASI;BEYOND KWH;ELECTRIC VEHICLE;1. SPKLU;1. Ketidaksesuaian Lokasi SPKLU R4 dan R2
+APLIKASI;BEYOND KWH;ELECTRIC VEHICLE;1. SPKLU;2. Gagal Charging / Partially Charging
+APLIKASI;BEYOND KWH;ELECTRIC VEHICLE;1. SPKLU;3. Proses Charging Rumit / Sulit
+APLIKASI;BEYOND KWH;ELECTRIC VEHICLE;1. SPKLU;4. Gagal Menambahkan Kendaraan Baru
+APLIKASI;BEYOND KWH;ELECTRIC VEHICLE;1. SPKLU;4. Gagal Menambahkan Kendaraan Baru
+APLIKASI;BEYOND KWH;ELECTRIC VEHICLE;2. SPLU;1. Ketidaksesuaian Lokasi SPLU
+APLIKASI;BEYOND KWH;ELECTRIC VEHICLE;2. SPLU;2. Proses Charging Rumit / Sulit
+APLIKASI;BEYOND KWH;ELECTRIC VEHICLE;3. SPBKLU;1. Ketidaksesuaian Lokasi SPBKLU R2/R4
+APLIKASI;BEYOND KWH;ELECTRIC VEHICLE;3. SPBKLU;2. Proses Charging Rumit / Sulit
+APLIKASI;BEYOND KWH;ELECTRIC VEHICLE;3. SPBKLU;3. Gagal Menambahkan Kendaraan Baru
+APLIKASI;BEYOND KWH;ELECTRIC VEHICLE;4. Home Charging Service;1. Alur Permohonan Rumit
+APLIKASI;BEYOND KWH;ELECTRIC VEHICLE;4. Home Charging Service;2. Status Payment Gagal tapi Saldo Terpotong
+APLIKASI;BEYOND KWH;ELECTRIC VEHICLE;5. Marketplace;1. Fitur Error
+APLIKASI;BEYOND KWH;ELECTRIC VEHICLE;5. Marketplace;2. Status Payment Gagal tapi Saldo Terpotong
+APLIKASI;BEYOND KWH;LISTRIQU;1. Pendaftaran;1. Alur Permohonan Rumit
+APLIKASI;BEYOND KWH;LISTRIQU;2. Pembayaran;1. Status Payment Gagal tapi Saldo Terpotong
+APLIKASI;BEYOND KWH;MARKETPLACE;1. Produk;1. Varian Barang Sedikit / Tidak Update
+APLIKASI;BEYOND KWH;MARKETPLACE;1. Produk;2. Produk Barang / Jasa Tidak Bisa Dipilih (Error)
+APLIKASI;BEYOND KWH;MARKETPLACE;2. Pembayaran;1. Status Payment Gagal tapi Saldo Terpotong
+APLIKASI;BEYOND KWH;MARKETPLACE;3. Pengiriman;1. Status Pengiriman Tidak Update
+APLIKASI;BEYOND KWH;MARKETPLACE;4. Pengembalian Dana;1. Refund Belum Diterima
+APLIKASI;BEYOND KWH;Pulsa & Tagihan;1. PDAM, BPJS, PULSA, PAKET DATA;1. Tagihan Tidak Tersedia
+APLIKASI;BEYOND KWH;Pulsa & Tagihan;1. PDAM, BPJS, PULSA, PAKET DATA;2. Status Payment Gagal tapi Saldo Terpotong
+APLIKASI;BEYOND KWH;Pulsa & Tagihan;1. PDAM, BPJS, PULSA, PAKET DATA;3. Status Payment Berhasil tapi Tagihan Tidak Lunas
+APLIKASI;BEYOND KWH;Pulsa & Tagihan;1. PDAM, BPJS, PULSA, PAKET DATA;4. Fitur Error
+APLIKASI;BEYOND KWH;PLTS ATAP;1. Perizinan;1. Alur Permohonan Rumit
+APLIKASI;BEYOND KWH;PLTS ATAP;1. Perizinan;2. Gagal Upload Dokumen
+APLIKASI;BEYOND KWH;PLTS ATAP;1. Perizinan;3. Status Permohonan Tidak Update
+APLIKASI;BEYOND KWH;PLTS ATAP;2. Simulasi Biaya;1. Pengisian Formulir Rumit
+APLIKASI;BEYOND KWH;PLTS ATAP;2. Simulasi Biaya;2. Perhitungan Biaya Membingungkan
+APLIKASI;BEYOND KWH;PLTS ATAP;2. Simulasi Biaya;3. Aplikasi Error
+APLIKASI;BEYOND KWH;PLTS ATAP;3. Pendaftaran Baru;1. Alur Permohonan Rumit
+APLIKASI;BEYOND KWH;PLTS ATAP;3. Pendaftaran Baru;2. Status Permohonan Tidak Update
+APLIKASI;BEYOND KWH;PLTS ATAP;3. Pendaftaran Baru;3. Aplikasi Error
+APLIKASI;BEYOND KWH;PLTS ATAP;4. Monitoring Energi;1. Data Tidak Update
+APLIKASI;BEYOND KWH;PLTS ATAP;4. Monitoring Energi;2. Aplikasi Error
+APLIKASI;BEYOND KWH;PLTS ATAP;5. Produk PLTS Atap;1. Info Produk Tidak Lengkap/Kuota Sedikit
+APLIKASI;BEYOND KWH;PLTS ATAP;6. Pengaduan;1. Tagihan Tidak Sesuai
+APLIKASI;BEYOND KWH;ICONPLAY;1. Pendaftaran Baru;1. Alur Permohonan Rumit
+APLIKASI;BEYOND KWH;ICONPLAY;1. Pendaftaran Baru;2. Tidak Bisa Mendaftar
+APLIKASI;BEYOND KWH;ICONPLAY;2. Kualitas Layanan (Konten);1. Konten Tidak Update
+APLIKASI;BEYOND KWH;ICONPLAY;2. Kualitas Layanan (Konten);2. Kualitas Streaming Jelek / Lemot
+APLIKASI;BEYOND KWH;ICONPLAY;3. Pembayaran;1. Status Payment Gagal tapi Saldo Terpotong
+APLIKASI;BEYOND KWH;ICONPLAY;3. Pembayaran;2. Status Payment Berhasil tapi Tagihan Tidak Lunas
+APLIKASI;BEYOND KWH;ICONPLAY;3. Pembayaran;3. Tidak Ada Notifikasi Pembayaran Perpanjangan Paket
+APLIKASI;BEYOND KWH;Promosi, Informasi & Event;1. Promo / Event yang Sedang Berlangsung;1. Voucher Tidak Diterima
+APLIKASI;BEYOND KWH;Promosi, Informasi & Event;1. Promo / Event yang Sedang Berlangsung;2. Voucher  Sudah Terpakai
+APLIKASI;BEYOND KWH;Promosi, Informasi & Event;1. Promo / Event yang Sedang Berlangsung;3. Voucher Kadaluarsa / Hilang
+APLIKASI;BEYOND KWH;Promosi, Informasi & Event;1. Promo / Event yang Sedang Berlangsung;4. Aplikasi Error
+LAYANAN;BEYOND KWH;ICONNET;1. Pendaftaran Baru;1. Belum Ada Realisasi
+LAYANAN;BEYOND KWH;ICONNET;2. Pengaduan;1. Koneksi Internet Lambat
+LAYANAN;BEYOND KWH;ICONNET;2. Pengaduan;2. Tidak Ada Koneksi Internet
+LAYANAN;BEYOND KWH;ICONNET;2. Pengaduan;3. Respon Lambat terhadap Laporan Pengaduan
+LAYANAN;BEYOND KWH;ICONNET;2. Pengaduan;4. Ketidaksesuaian Layanan Petugas Contact Center
+LAYANAN;BEYOND KWH;ELECTRIC VEHICLE;1. SPKLU;1. SPKLU R2/R4 Rusak / Mati
+LAYANAN;BEYOND KWH;ELECTRIC VEHICLE;1. SPKLU;2. Respon tidak solutif (Non CC PLN123)
+LAYANAN;BEYOND KWH;ELECTRIC VEHICLE;2. SPLU;1. SPLU Rusak / Mati
+LAYANAN;BEYOND KWH;ELECTRIC VEHICLE;2. SPLU;2. Respon tidak solutif (Non CC PLN123)
+LAYANAN;BEYOND KWH;ELECTRIC VEHICLE;3. SPBKLU;1. SPBKLU Rusak / Mati
+LAYANAN;BEYOND KWH;ELECTRIC VEHICLE;3. SPBKLU;2. Respon tidak solutif (Non CC PLN123)
+LAYANAN;BEYOND KWH;ELECTRIC VEHICLE;4. Home Charging Service;1. Belum Ada Realisasi
+LAYANAN;BEYOND KWH;ELECTRIC VEHICLE;4. Home Charging Service;2. Petugas Tidak Kompeten
+LAYANAN;BEYOND KWH;ELECTRIC VEHICLE;4. Home Charging Service;3. Respon tidak solutif (Non CC PLN123)
+LAYANAN;BEYOND KWH;ELECTRIC VEHICLE;5. Marketplace;1. Barang Belum Diterima
+LAYANAN;BEYOND KWH;ELECTRIC VEHICLE;5. Marketplace;2. Barang Tidak Sesuai Pesanan / Rusak
+LAYANAN;BEYOND KWH;ELECTRIC VEHICLE;5. Marketplace;3. Penjual Tidak Responsif
+LAYANAN;BEYOND KWH;ListriQu;1. Pelaksanaan Perbaikan;1. Petugas Tidak Kompeten
+LAYANAN;BEYOND KWH;ListriQu;1. Pelaksanaan Perbaikan;2. Respon Lambat terhadap Laporan Gangguan
+LAYANAN;BEYOND KWH;ListriQu;2. Pembayaran;1. Harga Tidak Standar
+LAYANAN;BEYOND KWH;MARKETPLACE;1. Ketidaksesuaian Pesanan;1. Barang Belum Diterima
+LAYANAN;BEYOND KWH;MARKETPLACE;1. Ketidaksesuaian Pesanan;2. Barang Tidak Sesuai Pesanan / Rusak
+LAYANAN;BEYOND KWH;MARKETPLACE;1. Ketidaksesuaian Pesanan;3. Kualitas Jasa / Pekerjaan Tidak Baik
+LAYANAN;BEYOND KWH;MARKETPLACE;1. Ketidaksesuaian Pesanan;4. Petugas Jasa Tidak Datang
+LAYANAN;BEYOND KWH;MARKETPLACE;2. Respon Penjual Lambat;1. Penjual Barang Tidak Responsif
+LAYANAN;BEYOND KWH;MARKETPLACE;2. Respon Penjual Lambat;2. Penyedia Jasa Tidak Responsif
+LAYANAN;BEYOND KWH;MARKETPLACE;3. Pengaduan;1. Respon tidak solutif (Non CC PLN123)
+LAYANAN;BEYOND KWH;MARKETPLACE;3. Pengaduan;2. Terjadi Kerusakan / Kehilangan saat Pelaksanaan Pekerjaan 
+LAYANAN;BEYOND KWH;PLTS Atap;1. Perizinan;1. Belum Ada Jawaban Perizinan
+LAYANAN;BEYOND KWH;PLTS Atap;2. Pendaftaran Baru;1. Belum Ada Konfirmasi / Petugas Tidak Datang
+LAYANAN;BEYOND KWH;PLTS Atap;3. Pengaduan;2. PLTS Rusak
+LAYANAN;BEYOND KWH;ICONPLAY;3. Pengaduan;1. Paket Terlalu Mahal (Konten & Biaya Tidak Sebanding)
+LAYANAN;BEYOND KWH;ICONPLAY;2. Pengaduan;1. Respon tidak solutif (Non CC PLN123)
+LAYANAN;BEYOND KWH;Promosi, Informasi & Event;1. Promo / Event yang Sedang Berlangsung;1. Informasi Produk/Event Tidak Sesuai
+UMUM;Citra / Branding Negatif Perusahaan;;;
+UMUM;Tidak Deskriptif;;;
+UMUM;Salah Mengartikan Bintang 1;;;
+UMUM;Saran UI/UX Tanpa Keterangan Fitur/Menu;;;
+UMUM;Keluhan Teknis secara Aplikasi;;;
