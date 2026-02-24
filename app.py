@@ -76,7 +76,7 @@ def prediksi_gemini(ulasan_teks):
     return json.loads(response.text)
 
 # --- USER INTERFACE (UI) ---
-st.title("⚡ Smart CSO - AI (Gemini Flash)")
+st.title("⚡ Smart CSO - Gemini Powered PLN Mobile Negative Review Classification")
 st.markdown("**PLN Mobile Customer Support Ticketing System (PoC)**")
 st.divider()
 
