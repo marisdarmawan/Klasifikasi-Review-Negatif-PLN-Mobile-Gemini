@@ -109,7 +109,7 @@ if st.button("🔍 Analisis dengan Gemini AI", type="primary", use_container_wid
                 with col1:
                     st.metric(label="🎭 Sentimen", value=hasil.get('sentimen', 'Netral'))
                 with col2:
-                    st.metric(label="⚡ AI Engine", value="Gemini 1.5 Flash")
+                    st.metric(label="⚡ AI Engine", value="Gemini 2.5 Flash")
                     
                 st.info(f"**📂 Kategori Tiket:**\n\n{hasil.get('kategori', 'Tidak Ditemukan')}")
                 st.write(f"**🤖 Alasan AI:** {hasil.get('alasan', '-')}")
