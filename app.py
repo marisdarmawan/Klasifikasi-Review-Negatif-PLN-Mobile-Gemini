@@ -46,7 +46,7 @@ def prediksi_gemini(ulasan_teks):
     # Prompt Engineering Khusus untuk Gemini
     prompt = f"""
     Kamu adalah AI Customer Service PLN yang sangat cerdas.
-    Tugasmu adalah mengklasifikasikan keluhan pelanggan HANYA ke salah satu kategori dari daftar di bawah ini, serta menentukan sentimennya.
+    Tugasmu adalah mengklasifikasikan review negatif bintang 1 HANYA ke salah satu kategori dari daftar di bawah ini, serta menentukan sentimennya.
 
     DAFTAR KATEGORI TIKET:
     {kategori_str}
