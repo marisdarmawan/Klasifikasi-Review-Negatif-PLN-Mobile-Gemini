@@ -64,7 +64,7 @@ def prediksi_gemini(ulasan_teks):
     """
     
     # Panggil Model Gemini Flash dengan output JSON yang dipaksa
-    model = genai.GenerativeModel('gemini-2.5-flash')
+    model = genai.GenerativeModel('gemini-3.1-flash')
     response = model.generate_content(
         prompt,
         generation_config=genai.GenerationConfig(
@@ -109,7 +109,7 @@ if st.button("🔍 Analisis dengan AI", type="primary", use_container_width=True
                 with col1:
                     st.metric(label="🎭 Sentimen", value=hasil.get('sentimen', 'Netral'))
                 with col2:
-                    st.metric(label="⚡ AI Engine", value="Gemini 2.5 Flash")
+                    st.metric(label="⚡ AI Engine", value="Gemini 3.1 Flash")
                     
                 st.info(f"**📂 Kategori Tiket:**\n\n{hasil.get('kategori', 'Tidak Ditemukan')}")
                 st.write(f"**🤖 Alasan AI:** {hasil.get('alasan', '-')}")
